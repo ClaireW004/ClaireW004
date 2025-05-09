@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Glad you made it here! I'm Claire, a passionate computer science student with a curiosity for all things software, from solving complex problems through efficient algorithms to system-level programming to full stack implementations. I love building interesting and elegant solutions to unique problems as well as learning a diversified set of knowledge along the way.
+
+Always excited to collaborate on innovative projects and exchange ideas. Let's build something awesome together!
+
+- 📫 How to reach me:
+  - Email: wangclaire07@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/claire-z-wang/)
+
 <!--
 **ClaireW004/ClaireW004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
